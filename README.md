@@ -1,4 +1,4 @@
-# Cyber Cadet – A Serious Game for Cybersecurity Awareness
+# Cyber Cadet: Threat Defender – A simumlation based serious game for cybersecurity Awareness
 
 **Cyber Cadet** is a serious game developed as part of a Master’s research project at the  
 School of Computer Science and Information Systems, North-West University (South Africa).  
