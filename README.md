@@ -2,7 +2,7 @@
 
 **Cyber Cadet** is a serious game developed as part of a Master’s research project at the  
 School of Computer Science and Information Systems, North-West University (South Africa).  
-The game is designed to promote cybersecurity awareness—particularly the among youth—by  
+The game is designed to promote cybersecurity awareness—particularly among youth—by  
 simulating real-world challenges such as password security, phishing detection, and various  
 forms of cyberattacks.
 
@@ -18,6 +18,20 @@ forms of cyberattacks.
 
 - **Educational Impact:**  
   Equips players with knowledge and strategies to recognize and respond to common cybersecurity pitfalls.
+
+---
+
+## Download and Access
+
+### Windows Users
+Please download and access the game:  
+📂 **[CyberCadetThreatDefender_Windows_V05.zip](#)** from **Cyber Cadet Threat Detector**  
+
+### Mac Users
+Please download and access the game:  
+📂 **[Godot_v4.3_WithCyberCadetForMac-V05.zip](#)** from **Cyber Cadet Threat Detector**  
+
+*(Replace `#` with actual download links if available.)*
 
 ---
 
