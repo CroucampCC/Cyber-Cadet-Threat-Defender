@@ -1,6 +1,8 @@
 # Cyber-Cadet-Threat-Defender
 A game created as a proof of concept for a M.Sc in Computer Science at the NWU.
+
 Author: C.C. Croucamp
+
 Supervisors: Prof G.R. Drevin and PRof L. Drevin
 
 Description of the Game:
