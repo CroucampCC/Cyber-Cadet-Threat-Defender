@@ -25,11 +25,11 @@ forms of cyberattacks.
 
 ### Windows Users
 Please download and access the game:  
-📂 **[CyberCadetThreatDefender_Windows_V05.zip](#)** from **Cyber Cadet Threat Detector**  
+📂 **[CyberCadetThreatDefender_Windows_V05.zip](https://drive.google.com/drive/folders/1PWQhAtGnJSc89uLKRkN2Fvt6sRUod3tE)** from **Cyber Cadet Threat Detector**  
 
 ### Mac Users
 Please download and access the game:  
-📂 **[Godot_v4.3_WithCyberCadetForMac-V05.zip](#)** from **Cyber Cadet Threat Detector**  
+📂 **[Godot_v4.3_WithCyberCadetForMac-V05.zip](https://drive.google.com/drive/folders/1PWQhAtGnJSc89uLKRkN2Fvt6sRUod3tE)** from **Cyber Cadet Threat Detector**  
 
 *(Replace `#` with actual download links if available.)*
 
