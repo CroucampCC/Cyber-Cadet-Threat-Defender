@@ -2,7 +2,7 @@
 
 **Cyber Cadet** is a serious game developed as part of a Master’s research project at the  
 School of Computer Science and Information Systems, North-West University (South Africa).  
-The game is designed to promote cybersecurity awareness—particularly among youth—by  
+The game is designed to promote cybersecurity awareness—particularly the among youth—by  
 simulating real-world challenges such as password security, phishing detection, and various  
 forms of cyberattacks.
 
